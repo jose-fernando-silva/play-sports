@@ -1,0 +1,1006 @@
+24-05-2014 11:56:30.675 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 11:56:32.097 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 12:41:14.531 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 12:41:16.529 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 12:57:11.809 [http-bio-8080-exec-1] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 12:57:13.331 [http-bio-8080-exec-1] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 12:58:21.509 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 12:58:21.539 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 12:59:45.965 [http-bio-8080-exec-6] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 12:59:46.004 [http-bio-8080-exec-6] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 13:00:43.673 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 13:00:43.714 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 21:49:08.106 [http-bio-8080-exec-1] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 21:49:08.248 [http-bio-8080-exec-1] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe], total:2]
+24-05-2014 21:49:14.239 [http-bio-8080-exec-3] INFO  EquipoServiceGet - Begins request:2
+24-05-2014 21:49:14.286 [http-bio-8080-exec-3] INFO  EquipoServiceGet - End of request: Getafe
+24-05-2014 22:02:22.630 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:02:22.978 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 22:22:35.520 [http-bio-8080-exec-9] ERROR JDBCExceptionReporter - Data truncation: Data too long for column 'logo' at row 1
+24-05-2014 22:29:21.599 [http-bio-8080-exec-5] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 22:29:21.735 [http-bio-8080-exec-5] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:20]
+24-05-2014 22:29:29.024 [http-bio-8080-exec-5] INFO  EquipoServiceGet - Begins request:7
+24-05-2014 22:29:29.116 [http-bio-8080-exec-5] INFO  EquipoServiceGet - End of request: Hannover 96
+24-05-2014 22:29:31.686 [http-bio-8080-exec-5] INFO  EquipoServiceGet - Begins request:10
+24-05-2014 22:29:31.704 [http-bio-8080-exec-5] INFO  EquipoServiceGet - End of request: B. Dortmund
+24-05-2014 22:34:57.176 [http-bio-8080-exec-9] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 22:34:57.294 [http-bio-8080-exec-9] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 22:36:17.552 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 22:36:17.611 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 22:36:24.599 [http-bio-8080-exec-5] INFO  EquipoServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:equipo]
+24-05-2014 22:36:24.679 [http-bio-8080-exec-5] INFO  EquipoServiceList - End of request: [items:[Hertha BSC, Eintracht Frankfurt, Hoffenheim, Nurnberg, Eintracht Brau, Werder Bremen, Mainz 05, Stuttgart, Schalke 04, Hamburger SV], total:56]
+24-05-2014 22:36:26.678 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [max:10, offset:20, action:list, format:null, controller:equipo]
+24-05-2014 22:36:26.717 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:56]
+24-05-2014 22:36:28.927 [http-bio-8080-exec-6] INFO  EquipoServiceList - Begins request: [max:10, offset:40, action:list, format:null, controller:equipo]
+24-05-2014 22:36:28.979 [http-bio-8080-exec-6] INFO  EquipoServiceList - End of request: [items:[Santos Laguna, Guadalajara, América, Tigres UANL, Monterrey, Cruz Azul, Pachuca, Toluca, Atlas Guadalajara, Tijuana], total:56]
+24-05-2014 22:36:31.225 [http-bio-8080-exec-9] INFO  EquipoServiceGet - Begins request:47
+24-05-2014 22:36:31.242 [http-bio-8080-exec-9] INFO  EquipoServiceGet - End of request: Pachuca
+24-05-2014 22:40:02.383 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:40:02.549 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:42:48.749 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:42:48.794 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:43:08.474 [http-bio-8080-exec-5] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:43:08.536 [http-bio-8080-exec-5] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 22:43:11.147 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:43:11.196 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:43:14.257 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:43:14.301 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 22:45:02.452 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:45:02.512 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:45:06.010 [http-bio-8080-exec-2] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:45:06.068 [http-bio-8080-exec-2] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 22:45:07.708 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:45:07.736 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:45:09.637 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:45:09.693 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 22:45:12.048 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 22:45:12.100 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 22:45:14.244 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 22:45:14.291 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 22:45:18.899 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 22:45:18.955 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 22:45:28.836 [http-bio-8080-exec-6] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:45:28.887 [http-bio-8080-exec-6] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:45:39.909 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 22:45:39.984 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 22:45:41.080 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 22:45:41.129 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 22:45:44.213 [http-bio-8080-exec-1] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 22:45:44.253 [http-bio-8080-exec-1] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 22:45:51.937 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 22:45:52.026 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:04:20.422 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:04:20.487 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:05:16.835 [http-bio-8080-exec-3] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:05:16.889 [http-bio-8080-exec-3] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:05:21.188 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:05:21.217 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:07:59.579 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:07:59.653 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 23:08:16.849 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:08:16.882 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:08:19.377 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:08:19.421 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:08:21.317 [http-bio-8080-exec-6] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:08:21.372 [http-bio-8080-exec-6] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:08:23.120 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:08:23.162 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 23:11:24.610 [http-bio-8080-exec-8] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:11:24.657 [http-bio-8080-exec-8] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:11:25.455 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:11:25.516 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:11:26.450 [http-bio-8080-exec-8] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:11:26.485 [http-bio-8080-exec-8] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:11:27.490 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:11:27.531 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[R. Sociedad, Getafe, Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund], total:56]
+24-05-2014 23:24:47.076 [http-bio-8080-exec-6] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:24:48.026 [http-bio-8080-exec-6] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:25:08.180 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:25:08.340 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:25:18.081 [http-bio-8080-exec-2] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:25:18.251 [http-bio-8080-exec-2] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:25:28.879 [http-bio-8080-exec-1] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:25:28.994 [http-bio-8080-exec-1] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 23:26:48.620 [http-bio-8080-exec-3] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:26:48.667 [http-bio-8080-exec-3] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:27:19.721 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:27:19.783 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:27:23.064 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:27:23.104 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:29:12.632 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:29:12.689 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 23:29:17.180 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:29:17.201 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 23:29:18.134 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:29:18.183 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:29:19.401 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:29:19.450 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:29:20.580 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:29:20.609 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[], total:0]
+24-05-2014 23:30:00.310 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:30:00.384 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+24-05-2014 23:30:03.576 [http-bio-8080-exec-7] INFO  EquipoServiceGet - Begins request:1
+24-05-2014 23:30:03.605 [http-bio-8080-exec-7] INFO  EquipoServiceGet - End of request: Bayern München
+24-05-2014 23:30:19.213 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:30:19.270 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:30:24.198 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:30:24.262 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:30:25.626 [http-bio-8080-exec-9] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:30:25.684 [http-bio-8080-exec-9] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:30:26.823 [http-bio-8080-exec-6] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:30:26.904 [http-bio-8080-exec-6] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+24-05-2014 23:30:29.820 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:30:29.861 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:30:32.048 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:30:32.093 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:30:33.235 [http-bio-8080-exec-9] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:30:33.291 [http-bio-8080-exec-9] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:30:34.315 [http-bio-8080-exec-3] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:30:34.377 [http-bio-8080-exec-3] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:30:35.535 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:30:35.588 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+24-05-2014 23:30:38.209 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:30:38.245 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+24-05-2014 23:30:39.445 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+24-05-2014 23:30:39.485 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+24-05-2014 23:31:54.996 [http-bio-8080-exec-6] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+24-05-2014 23:31:55.036 [http-bio-8080-exec-6] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+24-05-2014 23:31:56.082 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+24-05-2014 23:31:56.138 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+24-05-2014 23:33:04.527 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+24-05-2014 23:33:04.597 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:52:38.674 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:52:38.771 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:52:43.318 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:52:43.362 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:52:44.396 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 09:52:44.451 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 09:52:45.368 [http-bio-8080-exec-7] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 09:52:45.418 [http-bio-8080-exec-7] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 09:52:46.334 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 09:52:46.359 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 09:54:08.377 [http-bio-8080-exec-9] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 09:54:08.982 [http-bio-8080-exec-9] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 09:54:09.975 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:54:10.027 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:55:00.301 [http-bio-8080-exec-1] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 09:55:00.393 [http-bio-8080-exec-1] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 09:55:01.792 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 09:55:01.839 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 09:55:02.954 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 09:55:02.983 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 09:55:05.208 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 09:55:05.237 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 09:55:06.027 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 09:55:06.079 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 09:55:06.933 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 09:55:06.974 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 09:57:22.204 [http-bio-8080-exec-7] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:57:22.249 [http-bio-8080-exec-7] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:57:29.276 [http-bio-8080-exec-1] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:57:29.322 [http-bio-8080-exec-1] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:57:31.836 [http-bio-8080-exec-1] INFO  EquipoServiceGet - Begins request:4
+25-05-2014 09:57:31.858 [http-bio-8080-exec-1] INFO  EquipoServiceGet - End of request: SC Freiburg
+25-05-2014 09:57:36.272 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:equipo]
+25-05-2014 09:57:36.322 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Hoffenheim, Nurnberg, Eintracht Brau, Werder Bremen, Mainz 05, Stuttgart, Schalke 04, Hamburger SV, R. Sociedad, Getafe], total:128]
+25-05-2014 09:57:58.735 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 09:57:58.800 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 09:58:04.724 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:equipo]
+25-05-2014 09:58:04.775 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[Hoffenheim, Nurnberg, Eintracht Brau, Werder Bremen, Mainz 05, Stuttgart, Schalke 04, Hamburger SV, R. Sociedad, Getafe], total:128]
+25-05-2014 09:58:05.791 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [max:10, offset:0, action:list, format:null, controller:equipo]
+25-05-2014 09:58:05.834 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 10:03:29.970 [http-bio-8080-exec-1] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 10:03:30.022 [http-bio-8080-exec-1] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 10:03:30.916 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:03:30.986 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:03:31.962 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:03:31.990 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:03:56.214 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:03:56.249 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:05:31.154 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:05:31.230 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:05:34.986 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:05:35.011 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:05:35.801 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:05:35.888 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:07:11.774 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:07:11.815 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:09:15.445 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:09:15.522 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:09:17.814 [http-bio-8080-exec-3] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:09:17.913 [http-bio-8080-exec-3] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:09:31.080 [http-bio-8080-exec-3] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:09:31.125 [http-bio-8080-exec-3] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:09:33.442 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:09:33.469 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:09:42.526 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:09:42.558 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:09:43.309 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:09:43.361 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:09:44.294 [http-bio-8080-exec-6] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 10:09:44.358 [http-bio-8080-exec-6] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 10:11:29.278 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 10:11:29.348 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 10:11:31.388 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 10:11:31.446 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 10:11:48.459 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:11:48.497 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:11:49.757 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:11:49.812 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:11:51.108 [http-bio-8080-exec-5] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 10:11:51.157 [http-bio-8080-exec-5] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 10:11:52.183 [http-bio-8080-exec-3] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 10:11:52.228 [http-bio-8080-exec-3] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 10:20:16.700 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:20:16.758 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:20:19.882 [http-bio-8080-exec-3] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:20:19.910 [http-bio-8080-exec-3] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:20:20.616 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:20:20.661 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:33:03.075 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 10:33:03.117 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 10:33:04.189 [http-bio-8080-exec-7] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 10:33:04.253 [http-bio-8080-exec-7] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 10:33:05.117 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 10:33:05.195 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 10:33:06.192 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 10:33:06.295 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 10:50:26.249 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 10:50:26.284 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:128]
+25-05-2014 15:43:27.197 [http-bio-8080-exec-8] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 17: expecting '}', found ',' @ line 17, column 161.
+   ce(dir: 'js/RGraph/libraries'), file: 'R
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 17: expecting '}', found ',' @ line 17, column 161.
+   ce(dir: 'js/RGraph/libraries'), file: 'R
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfI7MVc.detalles(EstadisticasController.groovy:69)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 15:44:56.434 [http-bio-8080-exec-6] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 17: expecting '}', found ',' @ line 17, column 161.
+   ce(dir: 'js/RGraph/libraries'), file: 'R
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 17: expecting '}', found ',' @ line 17, column 161.
+   ce(dir: 'js/RGraph/libraries'), file: 'R
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfI7MVc.detalles(EstadisticasController.groovy:69)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 15:47:06.691 [http-bio-8080-exec-8] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfI7MVc.detalles(EstadisticasController.groovy:69)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 15:47:57.826 [http-bio-8080-exec-9] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfI7MVc.detalles(EstadisticasController.groovy:69)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 15:51:04.138 [http-bio-8080-exec-7] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfJCrTM.detalles(EstadisticasController.groovy:67)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 15:51:55.237 [http-bio-8080-exec-6] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 23: expecting ')', found '}' @ line 23, column 196.
+   : 'RGraph.common.effects.js)' })
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfJCrTM.detalles(EstadisticasController.groovy:67)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 16:32:02.420 [http-bio-8080-exec-10] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 27: unexpected token: - @ line 27, column 163.
+   n [detalles['ganados'] as int -100, deta
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 27: unexpected token: - @ line 27, column 163.
+   n [detalles['ganados'] as int -100, deta
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfJK6U4.detalles(EstadisticasController.groovy:67)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 16:56:24.718 [http-bio-8080-exec-1] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 33: expecting ']', found '}' @ line 33, column 359.
+   int, detalles['contra'] as int};
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_estadisticas__detalles_gsp: 33: expecting ']', found '}' @ line 33, column 359.
+   int, detalles['contra'] as int};
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.EstadisticasController$$EOfJK6U4.detalles(EstadisticasController.groovy:67)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+25-05-2014 18:59:07.003 [http-bio-8080-exec-2] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 18:59:07.167 [http-bio-8080-exec-2] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 18:59:17.272 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+25-05-2014 18:59:17.309 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+25-05-2014 18:59:18.600 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+25-05-2014 18:59:18.646 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+25-05-2014 18:59:19.724 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+25-05-2014 18:59:19.767 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+25-05-2014 18:59:20.700 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+25-05-2014 18:59:20.747 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:146]
+26-05-2014 09:46:28.498 [http-bio-8080-exec-5] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+26-05-2014 09:46:29.884 [http-bio-8080-exec-5] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:20]
+26-05-2014 09:48:12.477 [http-bio-8080-exec-8] INFO  NoticiaServiceCreate - Begins request: Fernando Arce, nuevo jugador de Chivas
+26-05-2014 09:48:13.265 [http-bio-8080-exec-8] INFO  NoticiaServiceCreate - End of request
+26-05-2014 09:48:13.346 [http-bio-8080-exec-2] INFO  NoticiaServiceGet - Begins request:22
+26-05-2014 09:48:13.473 [http-bio-8080-exec-2] INFO  NoticiaServiceGet - End of request: Fernando Arce, nuevo jugador de Chivas
+26-05-2014 09:48:14.546 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+26-05-2014 09:48:14.694 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:21]
+26-05-2014 09:51:06.533 [http-bio-8080-exec-5] INFO  NoticiaServiceCreate - Begins request: España da lista de 19 jugadores para Mundial
+26-05-2014 09:51:06.748 [http-bio-8080-exec-5] INFO  NoticiaServiceCreate - End of request
+26-05-2014 09:51:06.783 [http-bio-8080-exec-9] INFO  NoticiaServiceGet - Begins request:23
+26-05-2014 09:51:06.801 [http-bio-8080-exec-9] INFO  NoticiaServiceGet - End of request: España da lista de 19 jugadores para Mundial
+26-05-2014 09:51:07.054 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+26-05-2014 09:51:07.098 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+26-05-2014 09:58:26.103 [http-bio-8080-exec-2] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+26-05-2014 09:58:26.263 [http-bio-8080-exec-2] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México], total:9]
+26-05-2014 10:15:34.377 [http-bio-8080-exec-7] INFO  LigaServiceCreate - Begins request: Liguilla Clausura 2014
+26-05-2014 10:15:34.477 [http-bio-8080-exec-7] INFO  LigaServiceCreate - End of request
+26-05-2014 10:15:34.531 [http-bio-8080-exec-8] INFO  LigaServiceGet - Begins request:10
+26-05-2014 10:15:34.553 [http-bio-8080-exec-8] INFO  LigaServiceGet - End of request: Liguilla Clausura 2014
+26-05-2014 10:15:35.802 [http-bio-8080-exec-2] INFO  LigaServiceList - Begins request: [action:list, format:null, controller:liga]
+26-05-2014 10:15:35.922 [http-bio-8080-exec-2] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:10]
+26-05-2014 10:29:25.030 [http-bio-8080-exec-8] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_ligaMX_liguilla_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_ligaMX_liguilla_gsp: 32: expecting '}', found ':' @ line 32, column 159.
+   0]', 12, it) { return partidos: partidos
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_ligaMX_liguilla_gsp: 32: expecting '}', found ':' @ line 32, column 159.
+   0]', 12, it) { return partidos: partidos
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+26-05-2014 10:49:48.327 [http-bio-8080-exec-2] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+26-05-2014 10:49:48.327 [http-bio-8080-exec-2] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+26-05-2014 10:58:51.723 [http-bio-8080-exec-9] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+26-05-2014 10:58:51.779 [http-bio-8080-exec-9] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+26-05-2014 10:58:53.528 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+26-05-2014 10:58:53.569 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:10]
+27-05-2014 10:57:58.944 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+27-05-2014 10:58:01.215 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:10]
+27-05-2014 10:59:58.245 [http-bio-8080-exec-7] INFO  LigaServiceCreate - Begins request: Mundial
+27-05-2014 10:59:58.439 [http-bio-8080-exec-7] INFO  LigaServiceCreate - End of request
+27-05-2014 10:59:58.506 [http-bio-8080-exec-7] INFO  LigaServiceGet - Begins request:11
+27-05-2014 10:59:58.588 [http-bio-8080-exec-7] INFO  LigaServiceGet - End of request: Mundial
+27-05-2014 10:59:59.489 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [action:list, format:null, controller:liga]
+27-05-2014 10:59:59.537 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+27-05-2014 11:02:04.859 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+27-05-2014 11:02:04.969 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+27-05-2014 11:02:32.120 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [max:10, offset:170, action:list, format:null, controller:equipo]
+27-05-2014 11:02:32.165 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[Alemania, Portugal, Ghana, Estados Unidos, Bélgica, Argelia, Rusia, Corea del Sur], total:178]
+27-05-2014 11:03:03.816 [http-bio-8080-exec-3] INFO  EquipoServiceGet - Begins request:174
+27-05-2014 11:03:03.842 [http-bio-8080-exec-3] INFO  EquipoServiceGet - End of request: Estados Unidos
+27-05-2014 11:03:06.413 [http-bio-8080-exec-8] INFO  EquipoServiceGet - Begins request:172
+27-05-2014 11:03:06.428 [http-bio-8080-exec-8] INFO  EquipoServiceGet - End of request: Portugal
+27-05-2014 11:37:10.641 [http-bio-8080-exec-6] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+27-05-2014 11:37:10.866 [http-bio-8080-exec-6] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+27-05-2014 11:37:13.992 [http-bio-8080-exec-3] INFO  LigaServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:liga]
+27-05-2014 11:37:14.034 [http-bio-8080-exec-3] INFO  LigaServiceList - End of request: [items:[Mundial], total:11]
+27-05-2014 11:37:16.096 [http-bio-8080-exec-4] INFO  LigaServiceGet - Begins request:11
+27-05-2014 11:37:16.157 [http-bio-8080-exec-4] INFO  LigaServiceGet - End of request: Mundial
+27-05-2014 11:38:15.097 [http-bio-8080-exec-1] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 11:38:15.097 [http-bio-8080-exec-1] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 11:39:52.608 [http-bio-8080-exec-8] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 11:39:52.608 [http-bio-8080-exec-8] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 11:45:56.307 [http-bio-8080-exec-10] ERROR GroovyPagesTemplateEngine - Compilation error compiling GSP [home_JF_Documentos_play_sports_grails_app_views_mundial__posiciones_gsp]:startup failed:
+home_JF_Documentos_play_sports_grails_app_views_mundial__posiciones_gsp: 34: expecting '}', found '+' @ line 34, column 141.
+   { return registro.wins as int + registro
+                                 ^
+
+1 error
+
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+home_JF_Documentos_play_sports_grails_app_views_mundial__posiciones_gsp: 34: expecting '}', found '+' @ line 34, column 141.
+   { return registro.wins as int + registro
+                                 ^
+
+1 error
+
+	at org.codehaus.groovy.control.ErrorCollector.failIfErrors(ErrorCollector.java:309)
+	at org.codehaus.groovy.control.ErrorCollector.addFatalError(ErrorCollector.java:149)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:119)
+	at org.codehaus.groovy.control.ErrorCollector.addError(ErrorCollector.java:131)
+	at org.codehaus.groovy.control.SourceUnit.addError(SourceUnit.java:359)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.transformCSTIntoAST(AntlrParserPlugin.java:142)
+	at org.codehaus.groovy.antlr.AntlrParserPlugin.parseCST(AntlrParserPlugin.java:108)
+	at org.codehaus.groovy.control.SourceUnit.parse(SourceUnit.java:236)
+	at org.codehaus.groovy.control.CompilationUnit$1.call(CompilationUnit.java:162)
+	at org.codehaus.groovy.control.CompilationUnit.applyToSourceUnits(CompilationUnit.java:912)
+	at org.codehaus.groovy.control.CompilationUnit.doPhaseOperation(CompilationUnit.java:574)
+	at org.codehaus.groovy.control.CompilationUnit.processPhaseOperations(CompilationUnit.java:550)
+	at org.codehaus.groovy.control.CompilationUnit.compile(CompilationUnit.java:527)
+	at play.sports.MundialController$$EOfTuI9A.consultarGrupo(MundialController.groovy:25)
+	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:200)
+	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 16:31:41.940 [http-bio-8080-exec-8] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+27-05-2014 16:31:41.940 [http-bio-8080-exec-8] ERROR UrlMappingsFilter - Error when matching URL mapping [/(*)/(*)?/(*)?(.(*))?]:null
+java.lang.NullPointerException
+	at grails.plugin.springsecurity.web.filter.GrailsAnonymousAuthenticationFilter.doFilter(GrailsAnonymousAuthenticationFilter.java:53)
+	at grails.plugin.springsecurity.web.authentication.RequestHolderAuthenticationFilter.doFilter(RequestHolderAuthenticationFilter.java:49)
+	at grails.plugin.springsecurity.web.authentication.logout.MutableLogoutFilter.doFilter(MutableLogoutFilter.java:82)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+01-06-2014 01:47:01.645 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:47:02.483 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:48:15.423 [http-bio-8080-exec-2] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:48:15.480 [http-bio-8080-exec-2] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:48:16.943 [http-bio-8080-exec-7] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 01:48:17.086 [http-bio-8080-exec-7] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+01-06-2014 01:48:42.186 [http-bio-8080-exec-8] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 01:48:42.309 [http-bio-8080-exec-8] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 01:51:48.387 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:51:48.426 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:51:52.164 [http-bio-8080-exec-5] INFO  CategoriaServiceGet - Begins request:1
+01-06-2014 01:51:52.193 [http-bio-8080-exec-5] INFO  CategoriaServiceGet - End of request: FÚTBOL NACIONAL
+01-06-2014 01:51:55.572 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - Begins request:2
+01-06-2014 01:51:55.601 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - End of request: FÚTBOL INTERNACIONAL
+01-06-2014 01:52:23.810 [http-bio-8080-exec-5] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 01:52:23.866 [http-bio-8080-exec-5] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+01-06-2014 01:52:25.090 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:52:25.116 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:52:28.641 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - Begins request:1
+01-06-2014 01:52:28.657 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - End of request: FÚTBOL NACIONAL
+01-06-2014 01:52:37.173 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:52:37.211 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:52:38.029 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 01:52:38.074 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+01-06-2014 01:52:39.203 [http-bio-8080-exec-8] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 01:52:39.414 [http-bio-8080-exec-8] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 01:52:43.585 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:liga]
+01-06-2014 01:52:43.662 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Mundial], total:11]
+01-06-2014 01:52:46.517 [http-bio-8080-exec-5] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 01:52:46.855 [http-bio-8080-exec-5] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 01:53:09.688 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 01:53:09.775 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 01:53:49.243 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:53:49.275 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:54:22.857 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:54:22.884 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:54:25.395 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - Begins request:1
+01-06-2014 01:54:25.409 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - End of request: FÚTBOL NACIONAL
+01-06-2014 01:54:26.799 [http-bio-8080-exec-8] INFO  CategoriaServiceGet - Begins request:2
+01-06-2014 01:54:26.815 [http-bio-8080-exec-8] INFO  CategoriaServiceGet - End of request: FÚTBOL INTERNACIONAL
+01-06-2014 01:54:29.920 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - Begins request:2
+01-06-2014 01:54:29.940 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - End of request: FÚTBOL INTERNACIONAL
+01-06-2014 01:54:30.907 [http-bio-8080-exec-4] INFO  CategoriaServiceGet - Begins request:3
+01-06-2014 01:54:30.920 [http-bio-8080-exec-4] INFO  CategoriaServiceGet - End of request: SELECCIÓN MEXICANA
+01-06-2014 01:54:31.742 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - Begins request:4
+01-06-2014 01:54:31.759 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - End of request: MUNDIAL
+01-06-2014 01:54:44.557 [http-bio-8080-exec-5] INFO  CategoriaServiceCreate - Begins request: dflñfdl
+01-06-2014 01:54:44.755 [http-bio-8080-exec-5] INFO  CategoriaServiceCreate - End of request
+01-06-2014 01:54:44.807 [http-bio-8080-exec-7] INFO  CategoriaServiceGet - Begins request:5
+01-06-2014 01:54:44.824 [http-bio-8080-exec-7] INFO  CategoriaServiceGet - End of request: dflñfdl
+01-06-2014 01:54:44.950 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [action:list, format:null, controller:categoria]
+01-06-2014 01:54:44.976 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL, dflñfdl], total:5]
+01-06-2014 01:54:48.393 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - Begins request:5
+01-06-2014 01:54:48.408 [http-bio-8080-exec-9] INFO  CategoriaServiceGet - End of request: dflñfdl
+01-06-2014 01:54:48.501 [http-bio-8080-exec-9] INFO  CategoriaServiceUpdate - Begins request: dflñfdl
+01-06-2014 01:54:48.507 [http-bio-8080-exec-9] INFO  CategoriaServiceUpdate - End of request
+01-06-2014 01:54:48.536 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - Begins request:5
+01-06-2014 01:54:48.554 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - End of request: dflñfdl
+01-06-2014 01:54:48.694 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [action:list, format:null, controller:categoria]
+01-06-2014 01:54:48.756 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL, dflñfdl], total:5]
+01-06-2014 01:54:54.743 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - Begins request:5
+01-06-2014 01:54:54.767 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - End of request: dflñfdl
+01-06-2014 01:54:57.948 [http-bio-8080-exec-2] INFO  CategoriaServiceGet - Begins request:5
+01-06-2014 01:54:57.963 [http-bio-8080-exec-2] INFO  CategoriaServiceGet - End of request: dflñfdl
+01-06-2014 01:54:58.021 [http-bio-8080-exec-2] INFO  CategoriaServiceDelete - Begins request:dflñfdl
+01-06-2014 01:54:58.159 [http-bio-8080-exec-2] INFO  CategoriaServiceDelete - End of request
+01-06-2014 01:54:58.184 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [action:content, format:null, controller:categoria]
+01-06-2014 01:54:58.211 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:55:02.134 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 01:55:02.167 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 01:55:06.615 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [sort:nombre, max:10, order:asc, action:list, controller:categoria, format:null, offset:null]
+01-06-2014 01:55:06.651 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL INTERNACIONAL, FÚTBOL NACIONAL, MUNDIAL, SELECCIÓN MEXICANA], total:4]
+01-06-2014 01:55:07.425 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [max:10, sort:nombre, order:desc, action:list, format:null, controller:categoria, offset:null]
+01-06-2014 01:55:07.459 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[SELECCIÓN MEXICANA, MUNDIAL, FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL], total:4]
+01-06-2014 01:55:08.888 [http-bio-8080-exec-3] INFO  CategoriaServiceList - Begins request: [sort:descripcion, max:10, order:asc, action:list, controller:categoria, format:null, offset:null]
+01-06-2014 01:55:08.921 [http-bio-8080-exec-3] INFO  CategoriaServiceList - End of request: [items:[SELECCIÓN MEXICANA, FÚTBOL INTERNACIONAL, FÚTBOL NACIONAL, MUNDIAL], total:4]
+01-06-2014 01:55:09.648 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [max:10, sort:descripcion, order:desc, action:list, format:null, controller:categoria, offset:null]
+01-06-2014 01:55:09.684 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[MUNDIAL, FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA], total:4]
+01-06-2014 01:55:11.513 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 01:55:11.558 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+01-06-2014 01:55:17.773 [http-bio-8080-exec-2] INFO  NoticiaServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:noticia]
+01-06-2014 01:55:17.826 [http-bio-8080-exec-2] INFO  NoticiaServiceList - End of request: [items:[Guardado ve un buen grupo en el Tri, Herrera descarta problemas de contratos en su Tricolor, Rafael Márquez extiende contrato con León por un año, PSG llega a un acuerdo con Chelsea por David Luiz, PSG pagaría 62 mde por David Luiz, Portugal muestra su poderío contra Chile en Toulon, Arturo Vidal responde bien a su operación, 'Otros delanteros superaron a Donovan': Klinsmann, Alemania doblega el Futbol Total holandés y es Campeón, Dengue, otro enemigo a vencer en el Mundial], total:22]
+01-06-2014 01:55:19.710 [http-bio-8080-exec-2] INFO  NoticiaServiceGet - Begins request:12
+01-06-2014 01:55:19.735 [http-bio-8080-exec-2] INFO  NoticiaServiceGet - End of request: Guardado ve un buen grupo en el Tri
+01-06-2014 01:55:31.471 [http-bio-8080-exec-8] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 01:55:31.557 [http-bio-8080-exec-8] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 01:55:35.117 [http-bio-8080-exec-8] INFO  LigaServiceGet - Begins request:1
+01-06-2014 01:55:35.145 [http-bio-8080-exec-8] INFO  LigaServiceGet - End of request: Liga BBVA
+01-06-2014 01:55:41.268 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 01:55:41.313 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 01:55:44.953 [http-bio-8080-exec-6] INFO  EquipoServiceList - Begins request: [max:10, offset:90, action:list, format:null, controller:equipo]
+01-06-2014 01:55:45.026 [http-bio-8080-exec-6] INFO  EquipoServiceList - End of request: [items:[Rennes, Stade de Reims, Nantes, Bastia, Olympique Lyonnais, Nice, Lille, Lorient, Evian Thonon Gaillard, Sochaux], total:178]
+01-06-2014 01:55:46.867 [http-bio-8080-exec-4] INFO  EquipoServiceGet - Begins request:93
+01-06-2014 01:55:46.888 [http-bio-8080-exec-4] INFO  EquipoServiceGet - End of request: Nantes
+01-06-2014 01:55:49.009 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [max:10, offset:0, action:list, format:null, controller:equipo]
+01-06-2014 01:55:49.066 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 01:58:03.123 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 01:58:03.181 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:22]
+01-06-2014 01:59:25.194 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - Begins request: Bravo, motivado con la llegada de jugadores de experiencia
+01-06-2014 01:59:25.349 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - End of request
+01-06-2014 01:59:25.386 [http-bio-8080-exec-8] INFO  NoticiaServiceGet - Begins request:24
+01-06-2014 01:59:25.407 [http-bio-8080-exec-8] INFO  NoticiaServiceGet - End of request: Bravo, motivado con la llegada de jugadores de experiencia
+01-06-2014 01:59:25.624 [http-bio-8080-exec-3] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+01-06-2014 01:59:25.673 [http-bio-8080-exec-3] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:23]
+01-06-2014 02:00:46.446 [http-bio-8080-exec-10] INFO  NoticiaServiceCreate - Begins request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:00:46.520 [http-bio-8080-exec-10] INFO  NoticiaServiceCreate - End of request
+01-06-2014 02:00:46.564 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - Begins request:25
+01-06-2014 02:00:46.582 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - End of request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:00:46.777 [http-bio-8080-exec-2] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+01-06-2014 02:00:46.821 [http-bio-8080-exec-2] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:24]
+01-06-2014 02:02:09.027 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - Begins request: Álvaro Morata llegaría a la Juve
+01-06-2014 02:02:09.109 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - End of request
+01-06-2014 02:02:09.146 [http-bio-8080-exec-8] INFO  NoticiaServiceGet - Begins request:26
+01-06-2014 02:02:09.167 [http-bio-8080-exec-8] INFO  NoticiaServiceGet - End of request: Álvaro Morata llegaría a la Juve
+01-06-2014 02:02:09.345 [http-bio-8080-exec-3] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+01-06-2014 02:02:09.398 [http-bio-8080-exec-3] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:25]
+01-06-2014 02:02:12.647 [http-bio-8080-exec-6] INFO  NoticiaServiceList - Begins request: [max:10, offset:20, action:list, format:null, controller:noticia]
+01-06-2014 02:02:12.694 [http-bio-8080-exec-6] INFO  NoticiaServiceList - End of request: [items:[Fernando Arce, nuevo jugador de Chivas, España da lista de 19 jugadores para Mundial, Bravo, motivado con la llegada de jugadores de experiencia, "Afortunadamente no tengo fractura": Márquez, Álvaro Morata llegaría a la Juve], total:25]
+01-06-2014 02:02:15.728 [http-bio-8080-exec-6] INFO  NoticiaServiceGet - Begins request:25
+01-06-2014 02:02:15.752 [http-bio-8080-exec-6] INFO  NoticiaServiceGet - End of request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:02:19.814 [http-bio-8080-exec-1] INFO  NoticiaServiceGet - Begins request:25
+01-06-2014 02:02:19.829 [http-bio-8080-exec-1] INFO  NoticiaServiceGet - End of request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:02:19.905 [http-bio-8080-exec-1] INFO  NoticiaServiceUpdate - Begins request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:02:20.116 [http-bio-8080-exec-1] INFO  NoticiaServiceUpdate - End of request
+01-06-2014 02:02:20.144 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - Begins request:25
+01-06-2014 02:02:20.162 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - End of request: "Afortunadamente no tengo fractura": Márquez
+01-06-2014 02:02:20.347 [http-bio-8080-exec-2] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+01-06-2014 02:02:20.387 [http-bio-8080-exec-2] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:25]
+01-06-2014 02:02:24.467 [http-bio-8080-exec-9] INFO  NoticiaServiceList - Begins request: [max:10, offset:10, action:list, format:null, controller:noticia]
+01-06-2014 02:02:24.528 [http-bio-8080-exec-9] INFO  NoticiaServiceList - End of request: [items:[Guardado ve un buen grupo en el Tri, Herrera descarta problemas de contratos en su Tricolor, Rafael Márquez extiende contrato con León por un año, PSG llega a un acuerdo con Chelsea por David Luiz, PSG pagaría 62 mde por David Luiz, Portugal muestra su poderío contra Chile en Toulon, Arturo Vidal responde bien a su operación, 'Otros delanteros superaron a Donovan': Klinsmann, Alemania doblega el Futbol Total holandés y es Campeón, Dengue, otro enemigo a vencer en el Mundial], total:25]
+01-06-2014 02:02:26.063 [http-bio-8080-exec-4] INFO  NoticiaServiceList - Begins request: [max:10, offset:20, action:list, format:null, controller:noticia]
+01-06-2014 02:02:26.105 [http-bio-8080-exec-4] INFO  NoticiaServiceList - End of request: [items:[Fernando Arce, nuevo jugador de Chivas, España da lista de 19 jugadores para Mundial, Bravo, motivado con la llegada de jugadores de experiencia, "Afortunadamente no tengo fractura": Márquez, Álvaro Morata llegaría a la Juve], total:25]
+01-06-2014 02:03:48.138 [http-bio-8080-exec-8] INFO  NoticiaServiceCreate - Begins request: Jesús Navas deseó suerte a España en el Mundial
+01-06-2014 02:03:48.205 [http-bio-8080-exec-8] INFO  NoticiaServiceCreate - End of request
+01-06-2014 02:03:48.235 [http-bio-8080-exec-3] INFO  NoticiaServiceGet - Begins request:27
+01-06-2014 02:03:48.252 [http-bio-8080-exec-3] INFO  NoticiaServiceGet - End of request: Jesús Navas deseó suerte a España en el Mundial
+01-06-2014 02:03:48.448 [http-bio-8080-exec-5] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+01-06-2014 02:03:48.494 [http-bio-8080-exec-5] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:04:04.309 [http-bio-8080-exec-10] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:04:04.346 [http-bio-8080-exec-10] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:04:06.296 [http-bio-8080-exec-9] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:04:06.344 [http-bio-8080-exec-9] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:04:09.086 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:04:09.139 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:04:10.167 [http-bio-8080-exec-3] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:04:10.224 [http-bio-8080-exec-3] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:04:11.317 [http-bio-8080-exec-6] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:04:11.378 [http-bio-8080-exec-6] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:04:14.990 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:04:15.052 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:04:16.070 [http-bio-8080-exec-7] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:04:16.141 [http-bio-8080-exec-7] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:04:17.577 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:04:17.626 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:23:17.974 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:23:17.995 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:23:19.980 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:23:19.999 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:23:20.774 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:23:20.813 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:23:22.084 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:23:22.111 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:23:23.194 [http-bio-8080-exec-7] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:23:23.226 [http-bio-8080-exec-7] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:23:25.786 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:23:25.814 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:23:30.274 [http-bio-8080-exec-7] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:23:30.300 [http-bio-8080-exec-7] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:23:59.652 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:23:59.673 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:24:00.681 [http-bio-8080-exec-8] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:24:00.723 [http-bio-8080-exec-8] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:24:02.160 [http-bio-8080-exec-1] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:24:02.200 [http-bio-8080-exec-1] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:24:03.057 [http-bio-8080-exec-6] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:24:03.099 [http-bio-8080-exec-6] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:24:57.672 [http-bio-8080-exec-8] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:24:57.699 [http-bio-8080-exec-8] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:24:59.792 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:24:59.811 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:25:00.626 [http-bio-8080-exec-9] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:25:00.655 [http-bio-8080-exec-9] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:25:01.509 [http-bio-8080-exec-3] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:25:01.537 [http-bio-8080-exec-3] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:25:02.368 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:25:02.410 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:25:05.263 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:25:05.316 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 02:26:04.567 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 02:26:04.593 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 02:26:05.689 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 02:26:05.728 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 02:26:07.248 [http-bio-8080-exec-8] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 02:26:07.281 [http-bio-8080-exec-8] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 02:26:08.164 [http-bio-8080-exec-2] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 02:26:08.193 [http-bio-8080-exec-2] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 15:24:51.219 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+01-06-2014 15:24:52.153 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+01-06-2014 15:25:05.427 [http-bio-8080-exec-7] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+01-06-2014 15:25:05.617 [http-bio-8080-exec-7] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+01-06-2014 15:25:17.714 [http-bio-8080-exec-7] INFO  NoticiaServiceGet - Begins request:3
+01-06-2014 15:25:17.735 [http-bio-8080-exec-7] INFO  NoticiaServiceGet - End of request: "Gana el futbol, eso es lo principal": Jesús Martínez
+01-06-2014 15:25:23.253 [http-bio-8080-exec-5] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+01-06-2014 15:25:23.340 [http-bio-8080-exec-5] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+01-06-2014 15:25:33.853 [http-bio-8080-exec-5] INFO  LigaServiceGet - Begins request:1
+01-06-2014 15:25:33.870 [http-bio-8080-exec-5] INFO  LigaServiceGet - End of request: Liga BBVA
+01-06-2014 15:25:53.516 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 15:25:53.652 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 15:26:06.461 [http-bio-8080-exec-4] INFO  EquipoServiceGet - Begins request:1
+01-06-2014 15:26:06.491 [http-bio-8080-exec-4] INFO  EquipoServiceGet - End of request: Bayern München
+01-06-2014 15:26:15.839 [http-bio-8080-exec-7] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 15:26:15.888 [http-bio-8080-exec-7] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 15:26:17.527 [http-bio-8080-exec-3] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 15:26:17.573 [http-bio-8080-exec-3] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 15:26:19.425 [http-bio-8080-exec-5] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 15:26:19.473 [http-bio-8080-exec-5] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+01-06-2014 15:26:22.035 [http-bio-8080-exec-4] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+01-06-2014 15:26:22.089 [http-bio-8080-exec-4] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+02-06-2014 15:53:23.448 [http-bio-8080-exec-10] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+02-06-2014 15:53:24.370 [http-bio-8080-exec-10] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+02-06-2014 15:53:54.106 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - Begins request:2
+02-06-2014 15:53:54.122 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - End of request: FÚTBOL INTERNACIONAL
+02-06-2014 15:54:22.143 [http-bio-8080-exec-7] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+02-06-2014 15:54:22.261 [http-bio-8080-exec-7] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+02-06-2014 15:54:54.316 [http-bio-8080-exec-4] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+02-06-2014 15:54:54.402 [http-bio-8080-exec-4] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+02-06-2014 15:56:10.210 [http-bio-8080-exec-9] INFO  LigaServiceGet - Begins request:5
+02-06-2014 15:56:10.229 [http-bio-8080-exec-9] INFO  LigaServiceGet - End of request: Serie A
+02-06-2014 15:56:47.653 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+02-06-2014 15:56:47.776 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+02-06-2014 15:56:55.700 [http-bio-8080-exec-8] INFO  EquipoServiceGet - Begins request:3
+02-06-2014 15:56:55.720 [http-bio-8080-exec-8] INFO  EquipoServiceGet - End of request: B. Leverkusen
+02-06-2014 20:10:32.007 [http-bio-8080-exec-4] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+02-06-2014 20:10:32.870 [http-bio-8080-exec-4] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+02-06-2014 20:10:53.314 [http-bio-8080-exec-3] INFO  CategoriaServiceCreate - Begins request: UUJIIUJII
+02-06-2014 20:10:53.747 [http-bio-8080-exec-3] INFO  CategoriaServiceCreate - End of request
+02-06-2014 20:10:53.856 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - Begins request:5
+02-06-2014 20:10:53.873 [http-bio-8080-exec-3] INFO  CategoriaServiceGet - End of request: UUJIIUJII
+02-06-2014 20:10:54.513 [http-bio-8080-exec-1] INFO  CategoriaServiceList - Begins request: [action:list, format:null, controller:categoria]
+02-06-2014 20:10:54.539 [http-bio-8080-exec-1] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL, UUJIIUJII], total:5]
+02-06-2014 20:11:00.347 [http-bio-8080-exec-2] INFO  CategoriaServiceGet - Begins request:5
+02-06-2014 20:11:00.397 [http-bio-8080-exec-2] INFO  CategoriaServiceGet - End of request: UUJIIUJII
+02-06-2014 20:11:07.775 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - Begins request:5
+02-06-2014 20:11:07.793 [http-bio-8080-exec-10] INFO  CategoriaServiceGet - End of request: UUJIIUJII
+02-06-2014 20:11:07.872 [http-bio-8080-exec-10] INFO  CategoriaServiceUpdate - Begins request: 99909900909
+02-06-2014 20:11:08.037 [http-bio-8080-exec-10] INFO  CategoriaServiceUpdate - End of request
+02-06-2014 20:11:08.066 [http-bio-8080-exec-7] INFO  CategoriaServiceGet - Begins request:5
+02-06-2014 20:11:08.080 [http-bio-8080-exec-7] INFO  CategoriaServiceGet - End of request: 99909900909
+02-06-2014 20:11:08.192 [http-bio-8080-exec-5] INFO  CategoriaServiceList - Begins request: [action:list, format:null, controller:categoria]
+02-06-2014 20:11:08.215 [http-bio-8080-exec-5] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL, 99909900909], total:5]
+02-06-2014 20:11:18.194 [http-bio-8080-exec-8] INFO  CategoriaServiceGet - Begins request:5
+02-06-2014 20:11:18.208 [http-bio-8080-exec-8] INFO  CategoriaServiceGet - End of request: 99909900909
+02-06-2014 20:11:18.248 [http-bio-8080-exec-8] INFO  CategoriaServiceDelete - Begins request:99909900909
+02-06-2014 20:11:18.378 [http-bio-8080-exec-8] INFO  CategoriaServiceDelete - End of request
+02-06-2014 20:11:18.434 [http-bio-8080-exec-6] INFO  CategoriaServiceList - Begins request: [action:content, format:null, controller:categoria]
+02-06-2014 20:11:18.461 [http-bio-8080-exec-6] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+02-06-2014 20:11:22.552 [http-bio-8080-exec-9] INFO  CategoriaServiceList - Begins request: [format:null, action:content, controller:categoria]
+02-06-2014 20:11:22.617 [http-bio-8080-exec-9] INFO  CategoriaServiceList - End of request: [items:[FÚTBOL NACIONAL, FÚTBOL INTERNACIONAL, SELECCIÓN MEXICANA, MUNDIAL], total:4]
+02-06-2014 20:11:27.364 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+02-06-2014 20:11:27.549 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+02-06-2014 20:11:44.802 [http-bio-8080-exec-10] INFO  LigaServiceList - Begins request: [format:null, action:content, controller:liga]
+02-06-2014 20:11:44.884 [http-bio-8080-exec-10] INFO  LigaServiceList - End of request: [items:[Liga BBVA, Bundesliga, Liga Holandesa, Ligue 1, Serie A, Liga Portuguesa, Liga Rusa, Torneo Apertura de México, Torneo Clausura de México, Liguilla Clausura 2014], total:11]
+02-06-2014 20:13:04.990 [http-bio-8080-exec-8] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+02-06-2014 20:13:05.117 [http-bio-8080-exec-8] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+02-06-2014 20:13:33.293 [http-bio-8080-exec-9] INFO  EquipoServiceList - Begins request: [format:null, action:content, controller:equipo]
+02-06-2014 20:13:33.409 [http-bio-8080-exec-9] INFO  EquipoServiceList - End of request: [items:[Bayern München, Borussia Monchengladbach, B. Leverkusen, SC Freiburg, Hannover 96, Wolfsburg, FC Augsburg, B. Dortmund, Hertha BSC, Eintracht Frankfurt], total:178]
+02-06-2014 20:13:51.332 [http-bio-8080-exec-1] INFO  NoticiaServiceList - Begins request: [format:null, action:content, controller:noticia]
+02-06-2014 20:13:51.406 [http-bio-8080-exec-1] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:26]
+02-06-2014 20:14:08.881 [http-bio-8080-exec-2] INFO  NoticiaServiceCreate - Begins request: TITULO
+02-06-2014 20:14:09.003 [http-bio-8080-exec-2] INFO  NoticiaServiceCreate - Error in request: IllegalArgumentException - Parameter 'noticia' is invalid
+02-06-2014 20:14:52.674 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - Begins request: TITULO
+02-06-2014 20:14:52.823 [http-bio-8080-exec-7] INFO  NoticiaServiceCreate - End of request
+02-06-2014 20:14:52.873 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - Begins request:28
+02-06-2014 20:14:52.894 [http-bio-8080-exec-10] INFO  NoticiaServiceGet - End of request: TITULO
+02-06-2014 20:14:53.877 [http-bio-8080-exec-10] INFO  NoticiaServiceList - Begins request: [action:list, format:null, controller:noticia]
+02-06-2014 20:14:53.950 [http-bio-8080-exec-10] INFO  NoticiaServiceList - End of request: [items:[Juan Arango asegura que llega a Xolos, León, un camino difícil para conseguir el Bicampeonato, "Gana el futbol, eso es lo principal": Jesús Martínez, Tévez, elegido mejor jugador de la Juve, PSG ofrece a Ibrahimovic ser Director Deportivo, River Plate golea y es Campeón en Argentina, River Plate, uno de los más ganadores a nivel mundial, Juan Arango, nuevo jugador de Xolos, Maza no se cierra a la idea de ser refuerzo del Atlas, "Espero que éste sea ya mi Mundial": Guillermo Ochoa], total:27]
